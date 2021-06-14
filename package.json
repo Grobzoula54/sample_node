@@ -1,0 +1,27 @@
+{
+  "name": "sample_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node index.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grobzoula54/sample_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grobzoula54/sample_node/issues"
+  },
+  "homepage": "https://github.com/Grobzoula54/sample_node#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "eslint": "^7.28.0"
+  },
+}
